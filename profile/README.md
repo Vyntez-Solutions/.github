@@ -12,6 +12,7 @@ AI-first technology & game studio · Made in India, built for the world 🇮🇳
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vyntez)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vyntezsolutions)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VyntezSolutions)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vyntez.indianraillife)
 [![Email](https://img.shields.io/badge/info@vyntez.com-DB2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@vyntez.com)
 
 </div>
@@ -30,7 +31,7 @@ AI-first technology & game studio · Made in India, built for the world 🇮🇳
 | 🗂️ | **[Vyntez Sprint](https://sprint.vyntez.com)** | AI-enhanced tickets and boards for teams of every size |
 | 🎬 | **[Vyntez Social](https://vyntezsocial.com)** | Auto-cut reels, styled posts and cross-platform scheduling |
 | 🏥 | **[Vyntez Care](https://vyntezcare.com)** | AI-assisted prescriptions and hospital workflow |
-| 🚆 | **Indian Rail AI Simulator** | Our multiplayer Indian railway game, live on Google Play |
+| 🚆 | **[Indian Rail AI Simulator](https://play.google.com/store/apps/details?id=com.vyntez.indianraillife)** | Our multiplayer Indian railway game: real stations, real trains. [Download on Google Play](https://play.google.com/store/apps/details?id=com.vyntez.indianraillife) |
 
 ## 🛠️ What we build for clients
 
